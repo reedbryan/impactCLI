@@ -1,6 +1,6 @@
 # impactCLI
 
-A simple Java CLI application using picocli. Made for Impact.com by Reed Bryan #HireMe
+A simple Java CLI application using picocli. Made for Impact.com by Reed Bryan.
 
 ## Requirements
 - Java 8 or higher
