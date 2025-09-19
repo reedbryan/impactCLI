@@ -1,6 +1,6 @@
 # impactCLI
 
-A simple Java CLI application that prints the company name using picocli.
+A simple Java CLI application using picocli. Made for Impact.com by Reed Bryan #Hire me
 
 ## Requirements
 - Java 8 or higher
